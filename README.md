@@ -1,3 +1,3 @@
 # Reg:H250051T
-# Name:Gwatidzo B Tawananyasha
-# Class:Computer Science
+# Name:GWATIDZO B TAWANANYASHA
+# Dept:COMPUTER SCIENCE
